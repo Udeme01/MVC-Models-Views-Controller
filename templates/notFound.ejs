@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%= pageTitle %></title>
-    <link rel="stylesheet" href="/css/main.css" />
+<%- include('includes/head.ejs') %>
   </head>
   <body>
-    <header class="main-header">
+    <!-- <header class="main-header">
       <nav class="main-header__nav">
         <ul class="main-header__item-list">
           <li class="main-header__item">
@@ -18,9 +12,9 @@
           </li>
         </ul>
       </nav>
-    </header>
+    </header> -->
+  <%- include('includes/navigation.ejs') %>
     <main class="errorPage">
       <h1>Oops!!! Page Not Found.</h1>
     </main>
-  </body>
-</html>
+  <%- include('includes/end.ejs') %>

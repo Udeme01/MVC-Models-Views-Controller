@@ -1,1 +1,16 @@
-[{"title":"learn js"},{"title":"learn node"},{"title":"create a course  for beginners"},{"title":"make money"},{"title":"girlie issues"}]
+[
+  {
+    "title": "The Bible",
+    "imageUrl": "https://dg.imgix.net/resolved-to-read-the-bible-zc7fors3-en/landscape/resolved-to-read-the-bible-zc7fors3.jpg?ts=1481913446&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=700&h=394&dpr=2&ch=Width%2CDPR",
+    "price": 300,
+    "description": "The new KJV Bible!",
+    "id": "0.11485478294066498"
+  },
+  {
+    "title": "prod 1",
+    "imageUrl": "https://d2ctxc0nlnzcqn.cloudfront.net/wp-content/uploads/sites/102/2021/01/12055457/Q0428_m.jpg",
+    "price": 200,
+    "description": "awesome and amazing prod.!",
+    "id": "0.49154149272247794"
+  }
+]
